@@ -1,0 +1,8 @@
+lk\jiat\action\ejb\UserSessionBean.class
+lk\jiat\action\ejb\BidManagerBean.class
+lk\jiat\action\model\User.class
+lk\jiat\action\ejb\AuctionNotificationMDB.class
+lk\jiat\action\model\Auction.class
+lk\jiat\action\model\Bid.class
+lk\jiat\action\ejb\AuctionSingletonBean.class
+lk\jiat\action\ejb\AuctionManagerBean.class
